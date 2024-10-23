@@ -1,0 +1,18 @@
+#signup {
+    text-align: center; /* Center text in the signup section */
+}
+
+#signup p {
+    margin-top: 20px; /* Space above the paragraph */
+    font-size: 1em; /* Font size */
+}
+
+#signup a {
+    color: #3498db; /* Link color */
+    text-decoration: underline; /* Underline the link */
+    transition: color 0.3s; /* Transition effect for color */
+}
+
+#signup a:hover {
+    color: #2980b9; /* Change link color on hover */
+}
